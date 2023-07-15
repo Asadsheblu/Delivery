@@ -69,11 +69,11 @@ iframe{
   background-color: #effaff;
 }
 .form-bg{
-  background-image: url("../public//All-Points-Movers-LLC-f-bg.png");
+  background-image: url('./../public/All-Points-Movers-LLC-f-bg.png');
 }
 /*About*/
 .about{
-  background: linear-gradient(0deg, rgba(56, 8, 133, 0.54), rgba(46, 128, 196, 0.69)), url(../public/adult-man-woman-carrying-cardboard-boxes-scaled.jpg);
+  background: linear-gradient(0deg, rgba(56, 8, 133, 0.54), rgba(46, 128, 196, 0.69)), url('./../public/adult-man-woman-carrying-cardboard-boxes-scaled.jpg');
   background-position: top left;
   background-size: cover;
     opacity: 0.76;
@@ -81,7 +81,7 @@ iframe{
 }
 /*Service*/
 .service{
-  background: linear-gradient(0deg, rgba(17, 139, 47, 0.54), rgba(82, 226, 125, 0.69)), url(../public/box.jpg);
+  background: linear-gradient(0deg, rgba(17, 139, 47, 0.54), rgba(82, 226, 125, 0.69)), url('./../public/box.jpg');
   background-position: top left;
   background-size: cover;
     opacity: 0.76;
@@ -89,7 +89,7 @@ iframe{
 }
 /*Footer*/
 .footer{
-  background-image:  linear-gradient(0deg, rgba(78, 18, 173, 0.54), rgba(46, 128, 196, 0.69)),url("../public/All-Points-Movers-LLC-f-bg.png")
+  background-image:  linear-gradient(0deg, rgba(78, 18, 173, 0.54), rgba(46, 128, 196, 0.69)),url('./../public/All-Points-Movers-LLC-f-bg.png')
     
 } 
 .text-success{
