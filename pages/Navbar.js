@@ -12,25 +12,25 @@ const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mx-auto mb-2 mb-lg-0 ">
         <li className="nav-item ">
-          <a className="nav-link active text-white fw-bold" aria-current="page" href="#"><small>HOME</small></a>
+          <Link className="nav-link active text-white fw-bold" aria-current="page" href="/"><small>HOME</small></Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link text-white fw-bold" href="/api/About"><small>ABOUT US</small></Link>
+          <Link className="nav-link text-white fw-bold" href="/About"><small>ABOUT US</small></Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bold" href="#"><small>SERVICES</small></a>
+          <Link className="nav-link text-white fw-bold" href="/Service"><small>SERVICES</small></Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bold" href="#"><small>CONTACT US</small></a>
+          <Link className="nav-link text-white fw-bold" href="/Contact"><small>CONTACT US</small></Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bold" href="#"><small>BLOG</small></a>
+          <Link className="nav-link text-white fw-bold" href="/Blog"><small>BLOG</small></Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bold" href="#"><small>PHOTO GALLERY</small></a>
+          <Link className="nav-link text-white fw-bold" href="/Photo"><small>PHOTO GALLERY</small></Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-white fw-bold" href="#"><small>VIDEO GALLERY</small></a>
+          <Link className="nav-link text-white fw-bold" href="/Video"><small>VIDEO GALLERY</small></Link>
         </li>
        
        </ul>

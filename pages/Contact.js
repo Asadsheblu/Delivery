@@ -35,11 +35,7 @@ const Contact = () => {
        </div>
    
             </div>
-            <hr/>
-          <div className='text-center'>
-          <small className='text-center fw-bold text-danger'>Developed BY &copy; AsadSheblu</small>
-          </div>
-            
+          
         </div>
     );
 };
