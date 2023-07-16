@@ -73,7 +73,7 @@ iframe{
 }
 /*About*/
 .about{
-  background: linear-gradient(0deg, rgba(56, 8, 133, 0.54), rgba(46, 128, 196, 0.69)), url('./../public/images/adult-man-woman-carrying-cardboard-boxes-scaled.jpg');
+  background: linear-gradient(0deg, rgba(56, 8, 133, 0.54), rgba(46, 128, 196, 0.69)), url('/images/adult-man-woman-carrying-cardboard-boxes-scaled.jpg');
   background-position: top left;
   background-size: cover;
     opacity: 0.76;
