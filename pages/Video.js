@@ -1,5 +1,5 @@
 import React from 'react';
-import soon from "../public/come in soon.gif"
+import soon from "../public/images/come in soon.gif"
 import Image from 'next/image';
 const Video = () => {
     return (
