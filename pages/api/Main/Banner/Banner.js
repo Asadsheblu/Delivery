@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaArrowRight } from 'react-icons/fa';
-import hero from "../../../../public/Hero-Image.png"
+import hero from "../../../../public/images/Hero-Image.png"
 import Image from 'next/image';
 const Banner = () => {
     return (
