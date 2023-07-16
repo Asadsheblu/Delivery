@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaArrowCircleLeft, FaArrowRight } from 'react-icons/fa';
-import dboy from "../public/delivery-concept-portrait-handsome-african-american-delivery-man-courier-pushing-hand-truck-with-stack-boxes-isolated-grey-studio-background-copy-space-683x1024.jpg"
+import dboy from "../public/images/delivery-concept-portrait-handsome-african-american-delivery-man-courier-pushing-hand-truck-with-stack-boxes-isolated-grey-studio-background-copy-space-683x1024.jpg"
 import Image from 'next/image';
 import Link from 'next/link';
 const About = () => {
